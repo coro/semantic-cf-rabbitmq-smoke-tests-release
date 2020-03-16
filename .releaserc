@@ -5,5 +5,4 @@ plugins:
 - @semantic-release/commit-analyzer
 - @semantic-release/release-notes-generator
 - @semantic-release/github
-- semantic-release-slack-bot
 ci: false # Necessary as Concourse is not recognised as a CI provider...
